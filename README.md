@@ -13,4 +13,4 @@
 <ul>
 <li><a target="_blank" href="toniekuba1234.github.io/Iwiny-Web-Designs">Iwiny Web Designs Agency Website</a></li>
 <li><a target="_blank" href="toniekuba1234.github.io/Portfolio">Portfolio</a></li>
-<li><a target="_blank" href="[toniekuba1234.github.io/Portfolio](https://github.com/ToNieKuba1234/Data-Structures-Algorithms)">Data Structures & Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/ToNieKuba1234/Data-Structures-Algorithms">Data Structures & Algorithms</a></li>
