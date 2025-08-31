@@ -1,5 +1,5 @@
 <h1>Cześć, my name is Kuba 👋</h1>
-<p>A passionate software developer from Poland 🇵🇱</p>
+<p>A passionate Fullstack developer from Poland 🇵🇱</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
