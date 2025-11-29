@@ -10,5 +10,4 @@
 <ul>
 <li><a target="_blank" href="https://github.com/ToNieKuba1234/CurrencyConverter">Currency Converter (Java) </a></li>
 <li><a target="_blank" href="https://github.com/ToNieKuba1234/Iwiny-Web-Designs">Iwiny Web Designs Agency Website (React & tailwind) </a></li>
-<li><a target="_blank" href="toniekuba1234.github.io">Portfolio</a></li>
 <li><a target="_blank" href="https://github.com/ToNieKuba1234/Data-Structures-Algorithms">Data Structures & Algorithms (Python) </a></li>
