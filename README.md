@@ -8,6 +8,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="42" height="42"  /></a>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="https://github.com/ToNieKuba1234/Iwiny-Web-Designs">Iwiny Web Designs Agency Website</a></li>
+<li><a target="_blank" href="https://github.com/ToNieKuba1234/CurrencyConverter">Currency Converter (Java) </a></li>
+<li><a target="_blank" href="https://github.com/ToNieKuba1234/Iwiny-Web-Designs">Iwiny Web Designs Agency Website (React & tailwind) </a></li>
 <li><a target="_blank" href="toniekuba1234.github.io">Portfolio</a></li>
-<li><a target="_blank" href="https://github.com/ToNieKuba1234/Data-Structures-Algorithms">Data Structures & Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/ToNieKuba1234/Data-Structures-Algorithms">Data Structures & Algorithms (Python) </a></li>
